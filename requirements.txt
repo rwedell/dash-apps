@@ -1,6 +1,0 @@
-pandas
-dash
-dash_core_components
-dash_html_components
-plotly.graph_objects
-dash.dependencies
